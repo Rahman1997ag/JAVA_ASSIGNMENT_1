@@ -33,7 +33,7 @@ JAVA_ASSIGNMENT_1/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Wales1882005/Wai_Phone_Thaw-OOP-.git
+   git clone https://github.com/Rahman1997ag/JAVA_ASSIGNMENT_1.git
    ```
 2. Navigate to a week's folder, e.g.:
    ```bash
